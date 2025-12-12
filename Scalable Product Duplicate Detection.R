@@ -12,7 +12,7 @@ library(tidyr)
 # Settings
 boots = 5
 test_split = 0.37
-path = '/Users/daarts/Desktop/Master BAQM/Computer Science/TVs-all-merged.json'
+path = 'your file'
 
 # LSH parameters
 # varying b and r to get different t values
